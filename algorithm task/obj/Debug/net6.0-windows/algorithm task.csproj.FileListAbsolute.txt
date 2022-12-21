@@ -1,0 +1,36 @@
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm_task.Form1.resources
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm_task.Properties.Resources.resources
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.GenerateResource.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.AssemblyInfoInputs.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.AssemblyInfo.cs
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.exe
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.deps.json
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.runtimeconfig.json
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.pdb
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\refint\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.pdb
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.genruntimeconfig.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\algorithm task\algorithm task\obj\Debug\net6.0-windows\ref\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.exe
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.deps.json
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.runtimeconfig.json
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\bin\Debug\net6.0-windows\algorithm task.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm_task.Properties.Resources.resources
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.GenerateResource.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.AssemblyInfoInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.AssemblyInfo.cs
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\refint\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm task.genruntimeconfig.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\ref\algorithm task.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\algorithm task\algorithm task\obj\Debug\net6.0-windows\algorithm_task.Sorting.resources
